@@ -5,3 +5,8 @@
 * [register(_:forCellReusebleIdentifier:](https://github.com/jiyoe/App-Frameworks/issues/7#issue-1920509912)
 * [UIViewControllerRepresentable](https://github.com/jiyoe/App-Frameworks/issues/4#issue-1920507443)
 * [UICollectionViewDelegateFlowLayout](https://github.com/jiyoe/App-Frameworks/issues/3#issue-1920507335)
+
+
+
+## 
+* [NotificationCenter](https://github.com/jiyoe/App-Frameworks/issues/8#issue-1920510014)
