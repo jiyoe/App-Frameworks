@@ -7,6 +7,8 @@
 * [UICollectionViewDelegateFlowLayout](https://github.com/jiyoe/App-Frameworks/issues/3#issue-1920507335)
 * [collectionView(_:numberOfItemsInSection:)
 ](https://github.com/jiyoe/App-Frameworks/issues/6#issue-1920509806)
+* [collectionView(_:numberOfItemsInSection:)
+](https://github.com/jiyoe/App-Frameworks/issues/6#issue-1920509806)
 
 
 
