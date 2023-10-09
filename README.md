@@ -11,6 +11,7 @@
 ](https://github.com/jiyoe/App-Frameworks/issues/6#issue-1920509806)
 * [instantiateViewController(withIdentifier:)
 ](https://github.com/jiyoe/App-Frameworks/issues/5#issue-1920509540)
+* [collectionView](https://github.com/jiyoe/App-Frameworks/issues/9#issue-1932346367)
 
 
 
