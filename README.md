@@ -10,7 +10,7 @@
 * [collectionViewDelegateFolwLayout](https://github.com/jiyoe/App-Frameworks/issues/10#issue-1937737220)
 * [collectionViewLayout](https://github.com/jiyoe/App-Frameworks/issues/11#issue-1939763221)
 * [UITableViewController](https://github.com/jiyoe/App-Frameworks/issues/12#issue-1941945954)
-* [scheduledTimer(withTimeInterval:repeats:block:)
+* [scheduledTimer(timeInterval:target:selector:userInfo:repeats:))
 ](https://github.com/jiyoe/App-Frameworks/issues/13#issue-1943803127)
 
 
