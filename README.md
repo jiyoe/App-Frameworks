@@ -12,6 +12,7 @@
 * [UITableViewController](https://github.com/jiyoe/App-Frameworks/issues/12#issue-1941945954)
 * [scheduledTimer(timeInterval:target:selector:userInfo:repeats:))
 ](https://github.com/jiyoe/App-Frameworks/issues/13#issue-1943803127)
+* [UIGestureRecognizer](https://github.com/jiyoe/App-Frameworks/issues/14#issue-1946383140)
 
 
 ## 
