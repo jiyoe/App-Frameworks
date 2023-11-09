@@ -15,7 +15,7 @@
 ](https://github.com/jiyoe/App-Frameworks/issues/13#issue-1943803127)
 * [UIGestureRecognizer](https://github.com/jiyoe/App-Frameworks/issues/14#issue-1946383140)
 * [collectionView(_:cellForItemAt:)](https://github.com/jiyoe/App-Frameworks/issues/15#issue-1949841153)
-
+;;@;@
 
 ## 
 * [NotificationCenter](https://github.com/jiyoe/App-Frameworks/issues/8#issue-1920510014)
