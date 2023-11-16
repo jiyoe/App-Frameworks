@@ -17,6 +17,7 @@
 * [collectionView(_:cellForItemAt:)](https://github.com/jiyoe/App-Frameworks/issues/15#issue-1949841153)
 * [array](https://github.com/jiyoe/App-Frameworks/issues/18)
 * [UISearchController](https://github.com/jiyoe/App-Frameworks/issues/19#issue-1990698894)
+* [characterSet](https://github.com/jiyoe/App-Frameworks/issues/20#issue-1993890203)
 
 ## 
 * [NotificationCenter](https://github.com/jiyoe/App-Frameworks/issues/8#issue-1920510014)
