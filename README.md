@@ -18,6 +18,7 @@
 * [array](https://github.com/jiyoe/App-Frameworks/issues/18)
 * [UISearchController](https://github.com/jiyoe/App-Frameworks/issues/19#issue-1990698894)
 * [characterSet](https://github.com/jiyoe/App-Frameworks/issues/20#issue-1993890203)
+* [String](https://github.com/jiyoe/App-Frameworks/issues/21)
 
 ## 
 * [NotificationCenter](https://github.com/jiyoe/App-Frameworks/issues/8#issue-1920510014)
